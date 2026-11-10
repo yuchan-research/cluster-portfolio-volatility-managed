@@ -1,0 +1,7 @@
+strategy,Sharpe,MDD,Return,Turnover
+Cluster-gaussian-gmvp,0.5215,-0.5503,0.0838,0.4036
+Cluster-gaussian-msrp,0.5298,-0.5507,0.0918,0.4964
+Cluster-ivp-gmvp,0.5739,-0.4875,0.082,0.3286
+Cluster-ivp-msrp,0.5863,-0.4789,0.0893,0.4259
+Cluster-periphery-gmvp,0.4347,-0.5787,0.074,0.4327
+Cluster-periphery-msrp,0.4904,-0.5643,0.0918,0.5509

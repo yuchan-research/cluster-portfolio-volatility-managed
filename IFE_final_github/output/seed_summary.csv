@@ -1,0 +1,8 @@
+strategy,layer,mean,std,min,max,sharpe seed 42,mdd mean,picked first
+Cluster-ivp-gmvp,yes,0.8047,0.0048,0.7979,0.8119,0.8059,-0.1427,0
+Cluster-ivp-gmvp,no,0.5929,0.0056,0.5823,0.6019,0.6019,-0.4948,11
+Cluster-ivp-msrp,no,0.5574,0.0096,0.5368,0.5691,0.5691,-0.4969,0
+Cluster-gaussian-gmvp,no,0.5194,0.0082,0.5084,0.5311,0.5258,-0.5639,0
+Cluster-gaussian-msrp,no,0.5082,0.0123,0.4926,0.5314,0.5314,-0.5748,0
+Cluster-periphery-msrp,no,0.5061,0.0155,0.4802,0.5335,0.5172,-0.5864,0
+Cluster-periphery-gmvp,no,0.4214,0.0117,0.4058,0.4453,0.4246,-0.5971,0
