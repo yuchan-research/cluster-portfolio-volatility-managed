@@ -1,0 +1,12 @@
+# CRSP course data and matched delisting returns (license): not uploaded to GitHub
+data/IFE_term_stock_data.csv
+data/delist_matched.csv
+
+# Stock holdings (contain CRSP returns per stock): rebuilt by code/netted_turnover.py
+output/holdings.csv.gz
+output/seeds/*/holdings.csv.gz
+
+# Logs and Python cache
+*.log
+__pycache__/
+*.pyc
